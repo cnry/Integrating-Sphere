@@ -1,4 +1,12 @@
-// LED program 
+/*
+ * Canary Connect, Inc.  2014
+ *
+ * This program randomly cycles through RGB colors.
+ *
+ */
+
+
+// RGB LED program 
 
 // Output
 int redPin = 9;   // Red LED,   connected to digital pin 9
